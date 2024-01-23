@@ -56,7 +56,7 @@ function comment(){
 function saving(name,cb){
   setTimeout(() => {
     console.log(name)
-    cb("saved the post")
+    cb("saved the post to the page")
   },2000)
   
 }

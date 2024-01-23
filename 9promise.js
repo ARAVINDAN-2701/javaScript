@@ -2,13 +2,3 @@
           - * due to this the does not know what is happenning     
           - * new promise() - is how we are defining the promise */
 
-function ram(name,callback){
-    setTimeout(function(){
-    console.log(name)
-     callback()
-    },360000)
- }
-function som(){
-    console.log("hi")
-  }
-ram("hello",som)
