@@ -72,3 +72,7 @@ function liked(){
 }
 
 postFeed(a,"viewing the post");
+
+
+
+// claaback practise
